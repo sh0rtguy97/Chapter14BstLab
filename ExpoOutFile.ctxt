@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=ExpoOutFile(java.lang.String)
+comment0.text=\r\n\ ExpoOutFile\ constructor\ method.\r\n\ Associates\ external\ file\ name\ with\ internal\ file\ object.\r\n\ Constructs\ file\ object\ for\ writing\ out\ string\ values\ to\ an\ external\ file.\r\n
+comment1.params=s
+comment1.target=void\ writeString(java.lang.String)
+comment1.text=\r\n\ Writes\ a\ single\ string\ from\ internal\ file\ object\ to\ external\ hard\ drive\ file.\r\n
+comment2.params=s
+comment2.target=void\ writelnString(java.lang.String)
+comment2.text=\r\n\ Writes\ a\ single\ string\ from\ internal\ file\ object\ to\ external\ hard\ drive\ file.\r\n\ Additionally\ a\ linefeed/carriage\ return\ is\ added.\r\n
+comment3.params=
+comment3.target=void\ closeFile()
+comment3.text=\r\n\ Closes\ file\ object.\r\n
+numComments=4
